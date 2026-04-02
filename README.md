@@ -1,3 +1,3 @@
 ALL About of computer vision
 
-CNN
+CNN  IMPLIMENTATION
