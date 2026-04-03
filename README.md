@@ -9,3 +9,5 @@ padding & strides
 pooling layer in CNN (max pooling)
 
 CNN Architecture
+
+Transfer Learning
