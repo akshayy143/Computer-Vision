@@ -18,4 +18,9 @@ VGG16/119
 
 Googlenet
 
+Resnets
+
+Mobilenets
+
+Efficients Net
 
