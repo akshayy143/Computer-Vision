@@ -26,3 +26,4 @@ Efficients Net
 
 sliding window
 
+NMS 
