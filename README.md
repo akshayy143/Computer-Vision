@@ -24,3 +24,5 @@ Mobilenets
 
 Efficients Net
 
+sliding window
+
