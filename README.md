@@ -27,3 +27,5 @@ Efficients Net
 sliding window
 
 NMS 
+
+YOLO Algorithm
