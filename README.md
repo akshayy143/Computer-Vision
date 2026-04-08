@@ -33,3 +33,5 @@ YOLO Algorithm
 object segmentation
 
 siamese network
+
+GAN
