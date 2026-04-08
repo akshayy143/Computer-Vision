@@ -29,3 +29,7 @@ sliding window
 NMS 
 
 YOLO Algorithm
+
+object segmentation
+
+siamese network
