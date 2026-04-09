@@ -38,3 +38,4 @@ GAN
 
 cycle GAN
 
+StyleGAN
