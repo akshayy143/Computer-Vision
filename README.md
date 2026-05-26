@@ -39,3 +39,12 @@ GAN
 cycle GAN
 
 StyleGAN
+
+
+
+
+
+
+
+<img width="1271" height="826" alt="Screenshot 2026-05-26 233710" src="https://github.com/user-attachments/assets/5c1a3674-32f2-4ad7-af65-51ce8fa05af0" />
+
